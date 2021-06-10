@@ -53,7 +53,7 @@ body {
 /* END OF THE HEADER */
 
 /* The body */
-/*
+
 main .title-site {
   background-image: url(../assets/img-fundo.jpg);
   background-repeat: no-repeat;
@@ -95,7 +95,6 @@ main .title-site {
 }
 
 /*container with 3 photos of bedrooms*/
-/*
 .bedroom-container {
   display: flex;
   width: 70%;
