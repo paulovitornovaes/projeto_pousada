@@ -27,3 +27,16 @@ Only HTML                                                                       
 ![](https://github.com/paulovitornovaes/projeto_pousada/blob/master/assets/readme/old-header.gif?raw=true) | ![](https://github.com/paulovitornovaes/projeto_pousada/blob/master/assets/readme/new-header.gif?raw=true)
 
 <p>That way we can see the header all the time.</p>
+
+<br>
+<br>
+
+<h2>Thidy step 🗸</h2>
+
+<p>Put the background of the site, a border box to the title and used the flex wrap in the box menu of bedrooms</p>
+
+Only HTML                                                                                                  | Using CSS
+-----------------------------------------------------------------------------------------------------------| ------
+![](https://github.com/paulovitornovaes/projeto_pousada/blob/master/assets/readme/thirdy-step%20old.gif?raw=true) | ![](https://github.com/paulovitornovaes/projeto_pousada/blob/master/assets/readme/thirdy-step%20new.gif?raw=true)
+
+
