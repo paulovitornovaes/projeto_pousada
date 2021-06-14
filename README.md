@@ -51,3 +51,16 @@ Only HTML                                                                       
 -----------------------------------------------------------------------------------------------------------| ------
 ![](https://github.com/paulovitornovaes/projeto_pousada/blob/master/assets/readme/about-old.gif?raw=true) | ![](https://github.com/paulovitornovaes/projeto_pousada/blob/master/assets/readme/about-new.gif?raw=true)
 
+<br>
+<br>
+
+<h2>Fifth step </h2>
+
+<p> Style for the footer, added some icons for the links. </p>
+
+Only HTML                                                                                                  | Using CSS
+-----------------------------------------------------------------------------------------------------------| ------
+![](https://github.com/paulovitornovaes/projeto_pousada/blob/master/assets/readme/footer-old.gif?raw=true) | ![](https://github.com/paulovitornovaes/projeto_pousada/blob/master/assets/readme/footer-new.gif?raw=true)
+
+
+
