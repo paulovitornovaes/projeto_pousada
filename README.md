@@ -40,4 +40,14 @@ Only HTML                                                                       
 -----------------------------------------------------------------------------------------------------------| ------
 ![](https://github.com/paulovitornovaes/projeto_pousada/blob/master/assets/readme/thirdy-step%20old.gif?raw=true) | ![](https://github.com/paulovitornovaes/projeto_pousada/blob/master/assets/readme/thirdy-step%20new.gif?raw=true)
 
+<br>
+<br>
+
+<h2> Fourth step 🗸</h2>
+
+<p>Put the style of the route and the about the pousada box</p>
+
+Only HTML                                                                                                  | Using CSS
+-----------------------------------------------------------------------------------------------------------| ------
+![](https://github.com/paulovitornovaes/projeto_pousada/blob/master/assets/readme/about-old.gif?raw=true) | ![](https://github.com/paulovitornovaes/projeto_pousada/blob/master/assets/readme/about-new.gif?raw=true)
 
